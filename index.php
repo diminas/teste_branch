@@ -1,3 +1,5 @@
+<?php print 'a'; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,5 +11,9 @@
 <body>
     <h1>dados do back-end</h1>
     <?php print date("Y-m-d"); ?>
+
+
+    <?php //comment ?>
 </body>
+
 </html>
