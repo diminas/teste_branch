@@ -1,4 +1,3 @@
-<!-- comment -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,9 +13,5 @@
 <body>
     <h1>dados do back-end</h1>
     <?php print date("Y-m-d"); ?>
-    <h2>Subtitulo do teste</h2>
-    123
-    
 </body>
-<script></script>
 </html>
