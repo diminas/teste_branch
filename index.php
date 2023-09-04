@@ -7,6 +7,7 @@
     <title>alterando para front</title>
 </head>
 <body>
-    
+    <h1>dados do back-end</h1>
+    <?php print date("Y-m-d"); ?>
 </body>
 </html>
